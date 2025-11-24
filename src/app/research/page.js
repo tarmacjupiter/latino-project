@@ -43,9 +43,7 @@ export default function Research() {
               href="/"
               className="text-lg font-light text-[#2c2416] hover:text-[#8b7355] transition-colors"
               style={{ fontFamily: "'Crimson Text', serif" }}
-            >
-              Journeys of Belonging
-            </Link>
+            ></Link>
             <div className="flex gap-8">
               <Link
                 href="/"
