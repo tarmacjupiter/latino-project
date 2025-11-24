@@ -132,22 +132,27 @@ export default function Home() {
                 style={{ fontFamily: "'Source Serif Pro', serif" }}
               >
                 <p className="text-lg">
-                  This digital archive documents the personal narratives of
-                  Coptic Egyptian immigrants navigating life in the United
-                  States during and after September 11, 2001. Centered on an
-                  in-depth oral history interview, the project traces how
-                  national trauma and racialized suspicion reshaped immigrant
-                  identities, belonging, and everyday experiences for Middle
-                  Eastern and Muslim-perceived communities.
+                  Immigration narratives reveal how identity forms at the
+                  intersection of personal memory and political history. This
+                  project centers on a video interview with my mother, Abeer
+                  Behery, a Coptic Christian Egyptian woman who immigrated to
+                  the United States in 1994. Her story illuminates how the
+                  post-9/11 moment didnt just reshape policy—it fundamentally
+                  altered the landscape of belonging for Middle Eastern
+                  immigrants, forcing a renegotiation of what home and American
+                  could mean
                 </p>
                 <p>
-                  Combining personal memory with diaspora and cultural identity
-                  theory, this project illuminates how immigrants were compelled
-                  to renegotiate who they were—and how they were seen—in a
-                  rapidly shifting American racial landscape. By preserving
-                  these stories, the archive highlights the intimate, often
-                  overlooked experiences that connect global politics to family,
-                  faith, and the ongoing search for home.
+                  While my mother is Christian, her experiences mirror those of
+                  Muslim-perceived communities subjected to unprecedented
+                  surveillance and suspicion after September 11, 2001. This
+                  collapse of religious distinction within the racialization of
+                  Middle Eastern bodies reveals how global politics penetrate
+                  the intimate spaces of immigrant life—airport security lines,
+                  workplace conversations, decisions about raising children. By
+                  documenting her testimony, this archive preserves an
+                  overlooked personal history while critically reflecting on the
+                  politics of memory, identity, and diaspora
                 </p>
               </div>
             </div>
@@ -163,12 +168,18 @@ export default function Home() {
                 className="text-sm text-[#3d3428] leading-relaxed"
                 style={{ fontFamily: "'Source Serif Pro', serif" }}
               >
-                This project uses Stuart Hall’s theory of cultural identity and
-                diaspora to examine how identity is not fixed but continually
-                reshaped through history and power. It also draws on post-9/11
-                scholarship, especially Sunaina Maira’s work on racialization,
-                to understand how Arab and Middle Eastern immigrants were
-                reimagined within the American racial landscape after 2001.
+                This project draws on Stuart Halls theory of cultural identity
+                and diaspora, which argues that identity is not a stable essence
+                but an ongoing process—continually produced through the
+                continuous play of history, culture and power. Halls framework
+                helps us understand that what changed after 9/11 wasnt who my
+                mother was, but rather the narrative frameworks through which
+                she was positioned and understood. Alongside Hall, I draw on
+                Sunaina Mairas analysis of post-9/11 racialization to examine
+                how Arab and Middle Eastern immigrants were reimagined within
+                the American racial landscape—collapsed into a single Middle
+                Eastern/Muslim category regardless of actual religious
+                affiliation or citizenship status
               </p>
             </div>
           </div>
@@ -216,13 +227,21 @@ export default function Home() {
                 className="text-[#3d3428] leading-relaxed italic"
                 style={{ fontFamily: "'Crimson Text', serif" }}
               >
-                This project argues that the post-9/11 moment fundamentally
-                reshaped Egyptian and Arab immigrant identity in the United
-                States by producing new racialized boundaries of belonging.
-                These boundaries—formed through suspicion, surveillance, and
-                public narratives about the Middle East—forced immigrants to
-                continually re-articulate what “home,” citizenship, and
-                Americanness meant in a transformed social landscape.
+                The post-9/11 moment fundamentally reshaped Egyptian and Middle
+                Eastern immigrant identity in the United States by producing new
+                racialized boundaries of belonging. These boundaries—formed
+                through suspicion, surveillance, and national security
+                discourse—forced immigrants like my mother to strategically
+                navigate multiple, sometimes contradictory frameworks of
+                identity. Yet this story is not simply one of victimization. My
+                mothers testimony demonstrates agency in how she resisted the
+                categories imposed upon her, drawing on faith, professional
+                identity, and the everyday work of maintaining dignity while
+                raising children who could navigate multiple cultural worlds. In
+                this way, immigrants engaged in what Maira calls dissenting
+                citizenship, not through explicit political activism, but
+                through the intimate, daily work of insisting on their humanity
+                in a climate designed to erase it
               </p>
             </div>
 
