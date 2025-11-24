@@ -119,14 +119,21 @@ export default function Home() {
               >
                 <p className="text-lg">
                   This digital archive documents the personal narratives of
-                  Egyptian immigrants navigating life in America during and
-                  after the events of September 11th, 2001.
+                  Coptic Egyptian immigrants navigating life in the United
+                  States during and after September 11, 2001. Centered on an
+                  in-depth oral history interview, the project traces how
+                  national trauma and racialized suspicion reshaped immigrant
+                  identities, belonging, and everyday experiences for Middle
+                  Eastern and Muslim-perceived communities.
                 </p>
                 <p>
-                  Through intimate conversation, this project explores how
-                  national trauma and racialized suspicion reshaped immigrant
-                  identities, belonging, and everyday life for Arab and Middle
-                  Eastern communities in the United States.
+                  Combining personal memory with diaspora and cultural identity
+                  theory, this project illuminates how immigrants were compelled
+                  to renegotiate who they were—and how they were seen—in a
+                  rapidly shifting American racial landscape. By preserving
+                  these stories, the archive highlights the intimate, often
+                  overlooked experiences that connect global politics to family,
+                  faith, and the ongoing search for home.
                 </p>
               </div>
             </div>
@@ -142,12 +149,12 @@ export default function Home() {
                 className="text-sm text-[#3d3428] leading-relaxed"
                 style={{ fontFamily: "'Source Serif Pro', serif" }}
               >
-                This work engages with Stuart Halls theory of cultural identity
-                and diaspora, examining how identity is continually
-                reconstructed through history, culture, and power. It also draws
-                on scholarship exploring post-9/11 politics and the positioning
-                of Arab and Middle Eastern immigrants within the American racial
-                imaginary.
+                This project uses Stuart Hall’s theory of cultural identity and
+                diaspora to examine how identity is not fixed but continually
+                reshaped through history and power. It also draws on post-9/11
+                scholarship, especially Sunaina Maira’s work on racialization,
+                to understand how Arab and Middle Eastern immigrants were
+                reimagined within the American racial landscape after 2001.
               </p>
             </div>
           </div>
@@ -195,10 +202,13 @@ export default function Home() {
                 className="text-[#3d3428] leading-relaxed italic"
                 style={{ fontFamily: "'Crimson Text', serif" }}
               >
-                The post-9/11 moment reshaped Egyptian and Arab immigrant
-                identity in the United States by producing new boundaries of
-                belonging—ones that forced immigrants to re-articulate what home
-                and American meant to them.
+                This project argues that the post-9/11 moment fundamentally
+                reshaped Egyptian and Arab immigrant identity in the United
+                States by producing new racialized boundaries of belonging.
+                These boundaries—formed through suspicion, surveillance, and
+                public narratives about the Middle East—forced immigrants to
+                continually re-articulate what “home,” citizenship, and
+                Americanness meant in a transformed social landscape.
               </p>
             </div>
 
