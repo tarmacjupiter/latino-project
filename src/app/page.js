@@ -12,10 +12,7 @@ export default function Home() {
 
       {/* The video embed needs a constraint width to render clearly */}
       <div className="w-full max-w-md shadow-lg">
-        <LiteYouTubeEmbed
-          id="dQw4w9WgXcQ"
-          title="Rick Astley - Never Gonna Give You Up"
-        />
+        <LiteYouTubeEmbed id="iZoyhS0V6LI" title="LATINO392FINALVIDEO" />
       </div>
     </div>
   );
