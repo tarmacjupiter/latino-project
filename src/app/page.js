@@ -137,7 +137,7 @@ export default function Home() {
                   project centers on a video interview with my mother, Abeer
                   Behery, a Coptic Christian Egyptian woman who immigrated to
                   the United States in 1994. Her story illuminates how the
-                  post-9/11 moment didnt just reshape policy—it fundamentally
+                  post-9/11 moment didnt just reshape policy, it fundamentally
                   altered the landscape of belonging for Middle Eastern
                   immigrants, forcing a renegotiation of what home and American
                   could mean
