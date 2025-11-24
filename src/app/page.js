@@ -128,13 +128,6 @@ export default function Home() {
                   identities, belonging, and everyday life for Arab and Middle
                   Eastern communities in the United States.
                 </p>
-                <p>
-                  These stories reveal how global politics intersect with the
-                  intimate, lived experiences of migration, faith, and
-                  identity—showing how Egyptian immigrants navigated a complex
-                  dual identity, both assimilating into American life while
-                  resisting narratives that sought to define them.
-                </p>
               </div>
             </div>
 
@@ -179,7 +172,7 @@ export default function Home() {
                   className="text-sm text-[#6d5d4b] mt-1"
                   style={{ fontFamily: "'Source Serif Pro', serif" }}
                 >
-                  A conversation with my parents about their journey
+                  A conversation with my mom about her journey
                 </p>
               </div>
               <div className="aspect-video bg-black shadow-inner">
