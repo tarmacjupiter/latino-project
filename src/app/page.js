@@ -148,7 +148,7 @@ export default function Home() {
                   surveillance and suspicion after September 11, 2001. This
                   collapse of religious distinction within the racialization of
                   Middle Eastern bodies reveals how global politics penetrate
-                  the intimate spaces of immigrant life—airport security lines,
+                  the intimate spaces of immigrant life airport security lines,
                   workplace conversations, decisions about raising children. By
                   documenting her testimony, this archive preserves an
                   overlooked personal history while critically reflecting on the
@@ -170,14 +170,14 @@ export default function Home() {
               >
                 This project draws on Stuart Halls theory of cultural identity
                 and diaspora, which argues that identity is not a stable essence
-                but an ongoing process—continually produced through the
+                but an ongoing process, continually produced through the
                 continuous play of history, culture and power. Halls framework
                 helps us understand that what changed after 9/11 wasnt who my
                 mother was, but rather the narrative frameworks through which
                 she was positioned and understood. Alongside Hall, I draw on
                 Sunaina Mairas analysis of post-9/11 racialization to examine
                 how Arab and Middle Eastern immigrants were reimagined within
-                the American racial landscape—collapsed into a single Middle
+                the American racial landscape, collapsed into a single Middle
                 Eastern/Muslim category regardless of actual religious
                 affiliation or citizenship status
               </p>
@@ -229,9 +229,9 @@ export default function Home() {
               >
                 The post-9/11 moment fundamentally reshaped Egyptian and Middle
                 Eastern immigrant identity in the United States by producing new
-                racialized boundaries of belonging. These boundaries—formed
+                racialized boundaries of belonging. These boundaries, formed
                 through suspicion, surveillance, and national security
-                discourse—forced immigrants like my mother to strategically
+                discourse, forced immigrants like my mother to strategically
                 navigate multiple, sometimes contradictory frameworks of
                 identity. Yet this story is not simply one of victimization. My
                 mothers testimony demonstrates agency in how she resisted the
